@@ -1,0 +1,36 @@
+#header{
+  background: #161D2F;
+  .header--general{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h1{
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 36px;
+      color: #FFFFFF;
+
+
+    }
+    nav{
+      a{
+        padding-left: 40px;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 21px;
+        color: rgb(255, 255, 255);
+      }
+
+    }
+
+
+
+    button{
+      height: 40px;
+      width: 100px;
+      background: linear-gradient(97.1deg, #3043A9 11.99%, #1F629F 96.6%);
+      border-radius: 28px;
+      border: none;
+    }
+  }
+}

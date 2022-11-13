@@ -1,0 +1,33 @@
+#hero{
+  background: #161D2F;
+
+  .hero--general{
+    p{
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      /* identical to box height */
+
+      text-align: center;
+
+      color: #FFFFFF;
+
+    }
+    h1{
+      font-weight: 700;
+      font-size: 62px;
+      line-height: 150%;
+      text-align: center;
+
+      color: #FFFFFF;
+
+    }
+  }
+
+  .hero--youtube {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+  }
+}

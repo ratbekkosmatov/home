@@ -1,0 +1,31 @@
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+//fonts
+
+
+
+//styles
+@import "./../styles/header/header";
+@import "./../styles/hero/hero";
+@import "./../styles/about/about";
+//styles
+
+
+
+//icons
+@import "icons.css";
+//icons
+
+//global
+.container{
+  width: 85%;
+  margin: 0 auto;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+//global
