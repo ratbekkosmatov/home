@@ -1,0 +1,25 @@
+#pricing{
+  width: 1440px;
+  height: 600px;
+  background: linear-gradient(90deg, #09203F 0%, #161D2F 100%);
+  .pricing--general {
+    padding: 50px 0;
+    p {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      text-align: center;
+      color: #FFFFFF;
+    }
+    h1 {
+      font-style: normal;
+      font-weight: 600;
+      font-size: 40px;
+      line-height: 150%;
+      text-align: center;
+      text-transform: capitalize;
+      color: #FFFFFF;
+    }
+  }
+}
